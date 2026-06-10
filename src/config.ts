@@ -50,11 +50,11 @@ export const DRAFT: Record<Owner, string[]> = {
   PLAYER1: [
     "POR", "BRA", "NED", "MAR", "BEL", "GER", "CRO", "COL", "USA", "JPN",
     "SUI", "IRN", "ECU", "AUT", "KOR", "CIV", "SWE", "CZE", "COD", "KSA",
-    "BIH", "GHA", "HAI",
+    "BIH", "GHA", "HAI", "EGY"
   ],
   PLAYER2: [
     "FRA", "ESP", "ARG", "ENG", "SEN", "MEX", "URY", "TUR", "AUS", "ALG",
-    "EGY", "CAN", "NOR", "PAN", "PAR", "SCO", "TUN", "UZB", "QAT", "IRQ",
+    "CAN", "NOR", "PAN", "PAR", "SCO", "TUN", "UZB", "QAT", "IRQ",
     "RSA", "JOR", "CPV", "CUW", "NZL",
   ],
 };
